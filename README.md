@@ -98,3 +98,104 @@ Cette politique peut être mise à jour à tout moment. En cas de changement maj
 8. Contact
 
 Pour toute question relative à cette politique de confidentialité, veuillez nous contacter à : jjumper999@gmail.com
+
+## English
+Privacy Policy
+
+🔒 Privacy Policy – [Tickets]
+Effective Date: 12/07/2025
+
+Thank you for using [Tickets]. Your privacy is important to us. This policy explains what data we collect, how we use it, and what your options are.
+
+
+---
+
+1. Data Collected
+
+When you use the Bot, we may collect the following information:
+
+User identifiers (Discord ID, username, etc.)
+
+Ticket content (messages, subjects, attachments, if applicable)
+
+Timestamps (date/time of ticket creation and closure)
+
+Server/Group data (server ID, server name)
+
+
+
+---
+
+2. Use of Data
+
+Collected data is used to:
+
+Manage and track support tickets
+
+Provide support to users
+
+Improve the quality of service
+
+Resolve potential abuse or disputes
+
+
+
+---
+
+3. Data Sharing
+
+We do not sell or share your data with third parties, except in the following cases:
+
+Legal obligations or official requests
+
+In case of abuse or behavior against the platform’s terms of service
+
+
+
+---
+
+4. Data Retention
+
+We retain data:
+
+As long as necessary for the proper functioning of the Bot
+
+Or until you request its deletion (see Section 6)
+
+
+
+---
+
+5. Security
+
+We take reasonable measures to protect your data from unauthorized access or loss.
+
+
+---
+
+6. Your Rights
+
+In accordance with applicable laws (notably the GDPR in Europe), you have the right to:
+
+Request access to your data
+
+Request deletion of your data
+
+Contact the administrator to exercise your rights
+
+
+For any such request, please contact us at: jjumper999@gmail.com
+
+
+---
+
+7. Changes to This Policy
+
+This policy may be updated at any time. In case of significant changes, you will be notified via the relevant platform.
+
+
+---
+
+8. Contact
+
+For any questions regarding this privacy policy, please contact us at: jjumper999@gmail.com
